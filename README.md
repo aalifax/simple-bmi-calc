@@ -6,7 +6,7 @@ Body Mass Index atau BMI adalah suatu ukuran yang digunakan untuk menunjukkan ka
 Install Paket
 [Simple BMI Calc](https://pypi.org/project/simple-bmi-calc/) menggunakan perintah
 ```
-pip install kalkulator-bmi
+pip install simple-bmi-calc
 ```
 ```
 import program
