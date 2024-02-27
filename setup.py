@@ -6,14 +6,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name="kalkulator_bmi",
     version="0.1",
-    author="Muhammad Iqbal",
-    author_email="miqbal020@hotmail.com",
+    author="Aalifa",
+    author_email="aalifa.amira@gmail.com",
     description="Paket ini berisi kalkulator yang berfungsi untuk menghitung BMI atau IMT",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Miqbal20/kalkulator_bmi",
+    url="https://github.com/aalifax/simple-bmi-calc",
     project_urls={
-        "Website": "https://replit.com/@miqbal20",
+        "Website": "https://github.com/aalifax/simple-bmi-calc",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
