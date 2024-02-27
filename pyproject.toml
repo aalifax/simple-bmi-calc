@@ -1,0 +1,19 @@
+[project]
+name = "kalkulator_bmi"
+version = "0.0.1"
+authors = [
+  { name="Aalifa", email="aalifa.amira@gmail.com" },
+]
+description = "Paket ini berisi kalkulator yang berfungsi untuk menghitung BMI atau IMT"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Development Status :: 4 - Beta"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/aalifax"
+"Bug Tracker" = "https://github.com/aalifax
