@@ -1,5 +1,5 @@
 [project]
-name = "kalkulator_bmi"
+name = "simple-bmi-calc"
 version = "0.0.1"
 authors = [
   { name="Aalifa", email="aalifa.amira@gmail.com" },
@@ -15,5 +15,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/aalifax"
-"Bug Tracker" = "https://github.com/aalifax
+"Homepage" = "https://github.com/aalifax/simple-bmi-calc"
+"Bug Tracker" = "https://github.com/aalifax/simple-bmi-calc/issues"
